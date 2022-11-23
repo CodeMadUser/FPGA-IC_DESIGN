@@ -1,0 +1,218 @@
+-- Copyright (C) 1991-2015 Altera Corporation. All rights reserved.
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, the Altera Quartus II License Agreement,
+-- the Altera MegaCore Function License Agreement, or other 
+-- applicable license agreement, including, without limitation, 
+-- that your use is for the sole purpose of programming logic 
+-- devices manufactured by Altera and sold by Altera or its 
+-- authorized distributors.  Please refer to the applicable 
+-- agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=256;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	0    :   00FC;
+	1    :   FEE3;
+	2    :   FCCB;
+	3    :   FAB3;
+	4    :   F89D;
+	5    :   F688;
+	6    :   F477;
+	7    :   F269;
+	8    :   F05F;
+	9    :   EE58;
+	10   :   EC57;
+	11   :   EA5A;
+	12   :   E863;
+	13   :   E673;
+	14   :   E48B;
+	15   :   E2A9;
+	16   :   E0D1;
+	17   :   DF01;
+	18   :   DD3B;
+	19   :   DB7C;
+	20   :   D9C8;
+	21   :   D81F;
+	22   :   D680;
+	23   :   D4EC;
+	24   :   D365;
+	25   :   D1E9;
+	26   :   D07C;
+	27   :   CF1A;
+	28   :   CDC6;
+	29   :   CC80;
+	30   :   CB47;
+	31   :   CA1E;
+	32   :   C902;
+	33   :   C7F6;
+	34   :   C6F9;
+	35   :   C60B;
+	36   :   C52F;
+	37   :   C462;
+	38   :   C3A6;
+	39   :   C2FA;
+	40   :   C25D;
+	41   :   C1D3;
+	42   :   C15A;
+	43   :   C0F1;
+	44   :   C09B;
+	45   :   C055;
+	46   :   C021;
+	47   :   BFFE;
+	48   :   BFED;
+	49   :   BFEF;
+	50   :   C001;
+	51   :   C024;
+	52   :   C05A;
+	53   :   C0A1;
+	54   :   C0F9;
+	55   :   C162;
+	56   :   C1DC;
+	57   :   C267;
+	58   :   C304;
+	59   :   C3B1;
+	60   :   C46F;
+	61   :   C53C;
+	62   :   C61A;
+	63   :   C708;
+	64   :   C806;
+	65   :   C912;
+	66   :   CA2E;
+	67   :   CB58;
+	68   :   CC92;
+	69   :   CDD9;
+	70   :   CF2E;
+	71   :   D091;
+	72   :   D200;
+	73   :   D37B;
+	74   :   D503;
+	75   :   D697;
+	76   :   D836;
+	77   :   D9E0;
+	78   :   DB95;
+	79   :   DD55;
+	80   :   DF1D;
+	81   :   E0EE;
+	82   :   E2C8;
+	83   :   E4A8;
+	84   :   E692;
+	85   :   E882;
+	86   :   EA78;
+	87   :   EC76;
+	88   :   EE77;
+	89   :   F07E;
+	90   :   F289;
+	91   :   F499;
+	92   :   F6AB;
+	93   :   F8BE;
+	94   :   FAD4;
+	95   :   FCEB;
+	96   :   FF03;
+	97   :   011D;
+	98   :   0335;
+	99   :   054D;
+	100  :   0762;
+	101  :   0977;
+	102  :   0B89;
+	103  :   0D98;
+	104  :   0FA3;
+	105  :   11A9;
+	106  :   13AA;
+	107  :   15A7;
+	108  :   179C;
+	109  :   198B;
+	110  :   1B74;
+	111  :   1D55;
+	112  :   1F2E;
+	113  :   20FE;
+	114  :   22C7;
+	115  :   2485;
+	116  :   263A;
+	117  :   27E4;
+	118  :   2983;
+	119  :   2B17;
+	120  :   2C9D;
+	121  :   2E17;
+	122  :   2F85;
+	123  :   30E7;
+	124  :   323B;
+	125  :   3383;
+	126  :   34BB;
+	127  :   35E4;
+	128  :   36FF;
+	129  :   380B;
+	130  :   3908;
+	131  :   39F3;
+	132  :   3AD1;
+	133  :   3B9D;
+	134  :   3C5B;
+	135  :   3D06;
+	136  :   3DA2;
+	137  :   3E2C;
+	138  :   3EA6;
+	139  :   3F0E;
+	140  :   3F65;
+	141  :   3FA9;
+	142  :   3FDE;
+	143  :   4000;
+	144  :   4012;
+	145  :   4011;
+	146  :   4000;
+	147  :   3FDD;
+	148  :   3FA8;
+	149  :   3F62;
+	150  :   3F09;
+	151  :   3EA0;
+	152  :   3E25;
+	153  :   3D99;
+	154  :   3CFC;
+	155  :   3C4F;
+	156  :   3B91;
+	157  :   3AC4;
+	158  :   39E5;
+	159  :   38F8;
+	160  :   37FA;
+	161  :   36EE;
+	162  :   35D2;
+	163  :   34A7;
+	164  :   336E;
+	165  :   3226;
+	166  :   30D1;
+	167  :   2F6E;
+	168  :   2DFF;
+	169  :   2C83;
+	170  :   2AFB;
+	171  :   2967;
+	172  :   27C9;
+	173  :   261F;
+	174  :   2469;
+	175  :   22AB;
+	176  :   20E2;
+	177  :   1F11;
+	178  :   1D38;
+	179  :   1B57;
+	180  :   196D;
+	181  :   177D;
+	182  :   1587;
+	183  :   1389;
+	184  :   1188;
+	185  :   0F81;
+	186  :   0D76;
+	187  :   0B68;
+	188  :   0956;
+	189  :   0743;
+	190  :   052D;
+	191  :   0315;
+	[192..255]  :   0000;
+END;

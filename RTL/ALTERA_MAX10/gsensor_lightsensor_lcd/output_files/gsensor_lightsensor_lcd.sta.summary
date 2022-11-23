@@ -1,0 +1,968 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'u0|pll|sd1|pll7|clk[1]'
+Slack : -1.947
+TNS   : -3.957
+
+Type  : Slow 1200mV 85C Model Setup 'DDR3_DQS_n[1]_OUT'
+Slack : -0.535
+TNS   : -4.366
+
+Type  : Slow 1200mV 85C Model Setup 'DDR3_DQS_n[0]_OUT'
+Slack : -0.525
+TNS   : -4.316
+
+Type  : Slow 1200mV 85C Model Setup 'DDR3_DQS_n[2]_OUT'
+Slack : -0.525
+TNS   : -4.296
+
+Type  : Slow 1200mV 85C Model Setup 'DDR3_DQS_p[1]_OUT'
+Slack : -0.458
+TNS   : -3.739
+
+Type  : Slow 1200mV 85C Model Setup 'DDR3_DQS_p[0]_OUT'
+Slack : -0.448
+TNS   : -3.689
+
+Type  : Slow 1200mV 85C Model Setup 'DDR3_DQS_p[2]_OUT'
+Slack : -0.448
+TNS   : -3.669
+
+Type  : Slow 1200mV 85C Model Setup 'DDR3_CK_p'
+Slack : -0.362
+TNS   : -1.066
+
+Type  : Slow 1200mV 85C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : -0.011
+TNS   : -0.011
+
+Type  : Slow 1200mV 85C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[0]_write_clk'
+Slack : 0.043
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[2]_resync_clk'
+Slack : 0.634
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[1]_dq_write_clk'
+Slack : 1.329
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'u0|mem_if_ddr3_emif_resync_x2_capture_2'
+Slack : 1.510
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'u0|pll|sd1|pll7|clk[0]'
+Slack : 1.511
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 1.553
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'u0|mem_if_ddr3_emif_resync_x2_capture_1'
+Slack : 1.591
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'MAX10_CLK2_50'
+Slack : 16.554
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 22.809
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'altera_reserved_tck'
+Slack : 47.490
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DDR3_DQS_p[2]_OUT'
+Slack : -0.107
+TNS   : -0.888
+
+Type  : Slow 1200mV 85C Model Hold 'DDR3_DQS_p[0]_OUT'
+Slack : -0.107
+TNS   : -0.868
+
+Type  : Slow 1200mV 85C Model Hold 'DDR3_DQS_p[1]_OUT'
+Slack : -0.107
+TNS   : -0.818
+
+Type  : Slow 1200mV 85C Model Hold 'DDR3_DQS_n[2]_OUT'
+Slack : -0.105
+TNS   : -0.870
+
+Type  : Slow 1200mV 85C Model Hold 'DDR3_DQS_n[0]_OUT'
+Slack : -0.105
+TNS   : -0.850
+
+Type  : Slow 1200mV 85C Model Hold 'DDR3_DQS_n[1]_OUT'
+Slack : -0.105
+TNS   : -0.800
+
+Type  : Slow 1200mV 85C Model Hold 'u0|pll|sd1|pll7|clk[1]'
+Slack : 0.042
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u0|pll|sd1|pll7|clk[0]'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.213
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[0]_write_clk'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'altera_reserved_tck'
+Slack : 0.325
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'MAX10_CLK2_50'
+Slack : 0.326
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[2]_resync_clk'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u0|mem_if_ddr3_emif_resync_x2_capture_1'
+Slack : 0.470
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u0|mem_if_ddr3_emif_resync_x2_capture_2'
+Slack : 0.559
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DDR3_CK_p'
+Slack : 0.593
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[1]_dq_write_clk'
+Slack : 0.611
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'u0|pll|sd1|pll7|clk[0]'
+Slack : -4.787
+TNS   : -263.779
+
+Type  : Slow 1200mV 85C Model Recovery 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.418
+TNS   : -348.655
+
+Type  : Slow 1200mV 85C Model Recovery 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : -0.691
+TNS   : -19.767
+
+Type  : Slow 1200mV 85C Model Recovery 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 4.855
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'MAX10_CLK2_50'
+Slack : 18.084
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'u0|pll|sd1|pll7|clk[1]'
+Slack : 21.155
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'altera_reserved_tck'
+Slack : 48.145
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 0.425
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 0.889
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'MAX10_CLK2_50'
+Slack : 0.909
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.042
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'altera_reserved_tck'
+Slack : 1.090
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u0|pll|sd1|pll7|clk[0]'
+Slack : 1.138
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'u0|pll|sd1|pll7|clk[1]'
+Slack : 2.881
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[0]_write_clk'
+Slack : -2.203
+TNS   : -17.624
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_CK_n'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_CK_p'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_DQS_n[0]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_DQS_n[1]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_DQS_n[2]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_DQS_p[0]_IN'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_DQS_p[0]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_DQS_p[1]_IN'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_DQS_p[1]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_DQS_p[2]_IN'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DDR3_DQS_p[2]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[2]_resync_clk'
+Slack : 1.200
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[1]_dq_write_clk'
+Slack : 1.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 2.203
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 3.026
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif_resync_x2_capture_2'
+Slack : 3.061
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif_resync_x2_capture_1'
+Slack : 3.064
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'NET_RX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'NET_TX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|pll|sd1|pll7|clk[0]'
+Slack : 4.651
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MAX10_CLK2_50'
+Slack : 9.609
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : 9.748
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'MAX10_CLK3_50'
+Slack : 9.936
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'u0|pll|sd1|pll7|clk[1]'
+Slack : 12.162
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 14.841
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.601
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ADC_CLK_10'
+Slack : 96.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|pll|sd1|pll7|clk[1]'
+Slack : -1.593
+TNS   : -3.081
+
+Type  : Slow 1200mV 0C Model Setup 'DDR3_DQS_n[1]_OUT'
+Slack : -0.505
+TNS   : -4.094
+
+Type  : Slow 1200mV 0C Model Setup 'DDR3_DQS_n[0]_OUT'
+Slack : -0.495
+TNS   : -4.044
+
+Type  : Slow 1200mV 0C Model Setup 'DDR3_DQS_n[2]_OUT'
+Slack : -0.495
+TNS   : -4.024
+
+Type  : Slow 1200mV 0C Model Setup 'DDR3_DQS_p[1]_OUT'
+Slack : -0.442
+TNS   : -3.582
+
+Type  : Slow 1200mV 0C Model Setup 'DDR3_DQS_p[0]_OUT'
+Slack : -0.432
+TNS   : -3.532
+
+Type  : Slow 1200mV 0C Model Setup 'DDR3_DQS_p[2]_OUT'
+Slack : -0.432
+TNS   : -3.512
+
+Type  : Slow 1200mV 0C Model Setup 'DDR3_CK_p'
+Slack : -0.347
+TNS   : -1.021
+
+Type  : Slow 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[0]_write_clk'
+Slack : 0.352
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 0.576
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[2]_resync_clk'
+Slack : 0.730
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[1]_dq_write_clk'
+Slack : 1.437
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif_resync_x2_capture_2'
+Slack : 1.692
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 1.722
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif_resync_x2_capture_1'
+Slack : 1.760
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'u0|pll|sd1|pll7|clk[0]'
+Slack : 2.299
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'MAX10_CLK2_50'
+Slack : 16.840
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 23.506
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 47.711
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DDR3_DQS_n[2]_OUT'
+Slack : -0.105
+TNS   : -0.867
+
+Type  : Slow 1200mV 0C Model Hold 'DDR3_DQS_n[0]_OUT'
+Slack : -0.105
+TNS   : -0.847
+
+Type  : Slow 1200mV 0C Model Hold 'DDR3_DQS_n[1]_OUT'
+Slack : -0.105
+TNS   : -0.797
+
+Type  : Slow 1200mV 0C Model Hold 'DDR3_DQS_p[2]_OUT'
+Slack : -0.084
+TNS   : -0.676
+
+Type  : Slow 1200mV 0C Model Hold 'DDR3_DQS_p[0]_OUT'
+Slack : -0.084
+TNS   : -0.656
+
+Type  : Slow 1200mV 0C Model Hold 'DDR3_DQS_p[1]_OUT'
+Slack : -0.084
+TNS   : -0.606
+
+Type  : Slow 1200mV 0C Model Hold 'u0|pll|sd1|pll7|clk[1]'
+Slack : 0.065
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 0.097
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u0|pll|sd1|pll7|clk[0]'
+Slack : 0.200
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[0]_write_clk'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'MAX10_CLK2_50'
+Slack : 0.296
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.296
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[2]_resync_clk'
+Slack : 0.372
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif_resync_x2_capture_1'
+Slack : 0.441
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif_resync_x2_capture_2'
+Slack : 0.509
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DDR3_CK_p'
+Slack : 0.608
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[1]_dq_write_clk'
+Slack : 0.614
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'u0|pll|sd1|pll7|clk[0]'
+Slack : -4.310
+TNS   : -237.319
+
+Type  : Slow 1200mV 0C Model Recovery 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.008
+TNS   : -314.781
+
+Type  : Slow 1200mV 0C Model Recovery 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : -0.276
+TNS   : -7.117
+
+Type  : Slow 1200mV 0C Model Recovery 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 5.043
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'MAX10_CLK2_50'
+Slack : 18.242
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'u0|pll|sd1|pll7|clk[1]'
+Slack : 21.525
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 48.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 0.327
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 0.818
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'MAX10_CLK2_50'
+Slack : 0.841
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.973
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : 1.016
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u0|pll|sd1|pll7|clk[0]'
+Slack : 1.041
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'u0|pll|sd1|pll7|clk[1]'
+Slack : 2.617
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[0]_write_clk'
+Slack : -2.203
+TNS   : -17.624
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_CK_n'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_CK_p'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_n[0]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_n[1]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_n[2]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[0]_IN'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[0]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[1]_IN'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[1]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[2]_IN'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[2]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[2]_resync_clk'
+Slack : 1.200
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[1]_dq_write_clk'
+Slack : 1.333
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 2.222
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif_resync_x2_capture_2'
+Slack : 2.996
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 3.003
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif_resync_x2_capture_1'
+Slack : 3.010
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'NET_RX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'NET_TX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|pll|sd1|pll7|clk[0]'
+Slack : 4.669
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK2_50'
+Slack : 9.617
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : 9.784
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK3_50'
+Slack : 9.918
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'u0|pll|sd1|pll7|clk[1]'
+Slack : 12.179
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 14.848
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.630
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ADC_CLK_10'
+Slack : 96.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DDR3_DQS_n[1]_OUT'
+Slack : -0.949
+TNS   : -7.472
+
+Type  : Fast 1200mV 0C Model Setup 'DDR3_DQS_n[0]_OUT'
+Slack : -0.939
+TNS   : -7.442
+
+Type  : Fast 1200mV 0C Model Setup 'DDR3_DQS_n[2]_OUT'
+Slack : -0.939
+TNS   : -7.412
+
+Type  : Fast 1200mV 0C Model Setup 'DDR3_DQS_p[1]_OUT'
+Slack : -0.914
+TNS   : -7.192
+
+Type  : Fast 1200mV 0C Model Setup 'DDR3_DQS_p[0]_OUT'
+Slack : -0.904
+TNS   : -7.162
+
+Type  : Fast 1200mV 0C Model Setup 'DDR3_DQS_p[2]_OUT'
+Slack : -0.904
+TNS   : -7.132
+
+Type  : Fast 1200mV 0C Model Setup 'DDR3_CK_p'
+Slack : -0.885
+TNS   : -2.635
+
+Type  : Fast 1200mV 0C Model Setup 'u0|pll|sd1|pll7|clk[1]'
+Slack : -0.497
+TNS   : -0.497
+
+Type  : Fast 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[2]_resync_clk'
+Slack : 1.199
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[0]_write_clk'
+Slack : 1.240
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[1]_dq_write_clk'
+Slack : 1.946
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 2.209
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif_resync_x2_capture_2'
+Slack : 2.435
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif_resync_x2_capture_1'
+Slack : 2.470
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 2.474
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'u0|pll|sd1|pll7|clk[0]'
+Slack : 5.775
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'MAX10_CLK2_50'
+Slack : 18.355
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 26.557
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'altera_reserved_tck'
+Slack : 49.083
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 0.011
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|pll|sd1|pll7|clk[1]'
+Slack : 0.042
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 0.081
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|pll|sd1|pll7|clk[0]'
+Slack : 0.084
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.089
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[0]_write_clk'
+Slack : 0.099
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DDR3_DQS_n[0]_OUT'
+Slack : 0.100
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DDR3_DQS_n[1]_OUT'
+Slack : 0.100
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DDR3_DQS_n[2]_OUT'
+Slack : 0.100
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DDR3_DQS_p[0]_OUT'
+Slack : 0.101
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DDR3_DQS_p[1]_OUT'
+Slack : 0.101
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DDR3_DQS_p[2]_OUT'
+Slack : 0.101
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'MAX10_CLK2_50'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'altera_reserved_tck'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[2]_resync_clk'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif_resync_x2_capture_1'
+Slack : 0.212
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif_resync_x2_capture_2'
+Slack : 0.250
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[1]_dq_write_clk'
+Slack : 0.703
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DDR3_CK_p'
+Slack : 0.767
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u0|pll|sd1|pll7|clk[0]'
+Slack : -2.449
+TNS   : -135.261
+
+Type  : Fast 1200mV 0C Model Recovery 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -2.177
+TNS   : -173.039
+
+Type  : Fast 1200mV 0C Model Recovery 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 1.387
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 5.648
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'MAX10_CLK2_50'
+Slack : 19.044
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'u0|pll|sd1|pll7|clk[1]'
+Slack : 22.976
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'altera_reserved_tck'
+Slack : 49.367
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 0.170
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'MAX10_CLK2_50'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.435
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'altera_reserved_tck'
+Slack : 0.498
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u0|pll|sd1|pll7|clk[0]'
+Slack : 0.534
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'u0|pll|sd1|pll7|clk[1]'
+Slack : 1.480
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[0]_write_clk'
+Slack : -2.203
+TNS   : -17.624
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_CK_n'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_CK_p'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_n[0]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_n[1]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_n[2]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[0]_IN'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[0]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[1]_IN'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[1]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[2]_IN'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DDR3_DQS_p[2]_OUT'
+Slack : -2.203
+TNS   : -2.203
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[1]_dq_write_clk'
+Slack : 1.333
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[2]_resync_clk'
+Slack : 1.333
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif|pll0|upll_memphy|auto_generated|pll1|clk[4]_afi_clk'
+Slack : 2.292
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif_resync_x2_capture_0'
+Slack : 3.023
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif_resync_x2_capture_1'
+Slack : 3.036
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|mem_if_ddr3_emif_resync_x2_capture_2'
+Slack : 3.055
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'NET_RX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'NET_TX_CLK'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|pll|sd1|pll7|clk[0]'
+Slack : 4.717
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK2_50'
+Slack : 9.322
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK1_50'
+Slack : 9.513
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'MAX10_CLK3_50'
+Slack : 9.971
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'u0|pll|sd1|pll7|clk[1]'
+Slack : 12.217
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'vga_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 14.879
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'altera_reserved_tck'
+Slack : 49.399
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ADC_CLK_10'
+Slack : 96.000
+TNS   : 0.000
+
+------------------------------------------------------------
+Info: see the "DDR report" for DDR timing results
+------------------------------------------------------------
+------------------------------------------------------------

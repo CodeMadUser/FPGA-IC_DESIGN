@@ -1,0 +1,18 @@
+Fitter Status : Successful - Mon Sep 28 09:59:07 2015
+Quartus II 64-Bit Version : 15.0.2 Build 153 07/15/2015 SJ Full Version
+Revision Name : gsensor_lightsensor_lcd
+Top-level Entity Name : gsensor_lightsensor_lcd
+Family : MAX 10
+Device : 10M50DAF484C6GES
+Timing Models : Preliminary
+Total logic elements : 13,807 / 49,760 ( 28 % )
+    Total combinational functions : 11,059 / 49,760 ( 22 % )
+    Dedicated logic registers : 9,200 / 49,760 ( 18 % )
+Total registers : 9408
+Total pins : 287 / 360 ( 80 % )
+Total virtual pins : 0
+Total memory bits : 129,477 / 1,677,312 ( 8 % )
+Embedded Multiplier 9-bit elements : 6 / 288 ( 2 % )
+Total PLLs : 3 / 4 ( 75 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )
